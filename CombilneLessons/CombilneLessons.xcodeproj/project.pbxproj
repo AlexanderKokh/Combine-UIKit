@@ -58,13 +58,21 @@
 			children = (
 				E5C53536289AF58500DD5265 /* AppDelegate.swift */,
 				E5C53538289AF58500DD5265 /* SceneDelegate.swift */,
-				E5C5353A289AF58500DD5265 /* ViewController.swift */,
+				E5C5354A289AFB0000DD5265 /* Lesson 1 */,
 				E5C5353C289AF58500DD5265 /* Main.storyboard */,
 				E5C5353F289AF58600DD5265 /* Assets.xcassets */,
 				E5C53541289AF58600DD5265 /* LaunchScreen.storyboard */,
 				E5C53544289AF58600DD5265 /* Info.plist */,
 			);
 			path = CombilneLessons;
+			sourceTree = "<group>";
+		};
+		E5C5354A289AFB0000DD5265 /* Lesson 1 */ = {
+			isa = PBXGroup;
+			children = (
+				E5C5353A289AF58500DD5265 /* ViewController.swift */,
+			);
+			path = "Lesson 1";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
